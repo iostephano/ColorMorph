@@ -8,6 +8,8 @@ portafolio para mostrar cómo se integra un shader de Metal como fondo de una vi
 SwiftUI y cómo se le pasan parámetros desde Swift, con esos parámetros modelados en
 un tipo de valor puro y verificado por pruebas. Es la pareja "de color" de ShapeMorph.
 
+<img width="1386" height="664" alt="Captura de pantalla 2026-09-03 a la(s) 14 58 54" src="https://github.com/user-attachments/assets/346ff5ed-a882-4d5c-aac9-9aac9bc103a4" />
+
 ---
 
 ## Tecnologías usadas
