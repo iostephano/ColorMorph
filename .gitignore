@@ -1,0 +1,21 @@
+# Xcode
+DerivedData/
+build/
+*.xcresult
+
+# Xcode per-user state — never shared. The project's own
+# `ColorMorph.xcodeproj/project.xcworkspace/contents.xcworkspacedata` stays
+# tracked; only per-user data inside any workspace/project is ignored.
+*.xcuserstate
+**/xcuserdata/
+
+# Swift Package Manager local state
+.swiftpm/
+.build/
+
+# Screen recordings / large media (kept out of the repo, uploaded as README assets)
+*.mov
+*.mp4
+
+# macOS
+.DS_Store
